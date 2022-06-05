@@ -136,7 +136,10 @@
         text-overflow: ellipsis;
         overflow: hidden;
         white-space: nowrap;
-        
+        width: 97%;
+    }
+    .home-product-item__action{
+        margin: 6px 8px 0;
     }
     /* Fix search-mobile */
     .header__search-select{
