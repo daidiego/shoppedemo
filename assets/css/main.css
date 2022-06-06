@@ -997,6 +997,9 @@
     font-size: 1.6rem;
     color: var(--primary-color);
     margin-left: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
 }
 .home-product-item__action{
     display: flex;
