@@ -989,6 +989,7 @@
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;
+    width: 97%;
 }
 .home-product-item__price-old{
     margin-left: 10px;

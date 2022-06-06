@@ -132,12 +132,6 @@
     .header__search-btn{
         display: none;
     }
-    .home-product-item__price{
-        text-overflow: ellipsis;
-        overflow: hidden;
-        white-space: nowrap;
-        width: 97%;
-    }
     .home-product-item__action{
         margin: 6px 8px 0;
     }
@@ -154,6 +148,7 @@
     .header__search{
         padding: 0 20px 0 0;
     }
+    /* fix */
     .pagination-item a,
     .pagination-item--active .pagination-item__link{
         display: flex;
