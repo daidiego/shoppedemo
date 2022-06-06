@@ -132,9 +132,6 @@
     .header__search-btn{
         display: none;
     }
-    .home-product-item__action{
-        margin: 6px 8px 0;
-    }
     /* Fix search-mobile */
     .header__search-select{
         padding-left: 8px;
