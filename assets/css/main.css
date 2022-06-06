@@ -1031,7 +1031,7 @@ i.home-product-item__like-icon-fill{
     color: var(--star-gold-color);
 }
 .home-product-item__sold{
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: var(--text-color);
     margin-left: 6px;
 }
