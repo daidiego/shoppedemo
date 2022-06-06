@@ -154,6 +154,7 @@
     .header__search{
         padding: 0 20px 0 0;
     }
+    .pagination-item a,
     .pagination-item--active .pagination-item__link{
         display: flex;
         align-items: center;
