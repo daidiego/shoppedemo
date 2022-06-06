@@ -154,6 +154,11 @@
     .header__search{
         padding: 0 20px 0 0;
     }
+    .pagination-item--active .pagination-item__link{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }
 /* Low Pc */
 @media (min-width: 1024px) and (max-width: 1239px){
